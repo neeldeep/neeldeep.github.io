@@ -2,6 +2,9 @@
 layout: post
 title:  "Serve Up!"
 subtitle: "Up and Running!"
-date:   2015-02-08 00:34:01
+date:   2016-02-08 00:34:01
 categories: [javascript, nodejs]
 ---
+
+Just a sample post to show some of the *typography* elements supported from
+**daktilo** theme.
