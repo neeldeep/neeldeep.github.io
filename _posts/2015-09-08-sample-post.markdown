@@ -6,6 +6,8 @@ date:   2014-08-19 23:56:45
 categories: [tool]
 ---
 
+Test
+
 Just a sample post to show some of the *typography* elements supported from
 **daktilo** theme.
 
